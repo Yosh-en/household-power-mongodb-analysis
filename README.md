@@ -28,6 +28,11 @@ The dataset contains more than 2 million minute-level measurements of household 
 * Aggregation pipeline for mean, minimum, and maximum power
 * Monthly power consumption analysis for 2008
 
+## Files
+- power_consumption_analysis.ipynb: Complete implementation of the assignment.
+
+Note: If GitHub's notebook preview fails to render, download the notebook and open it in Jupyter Notebook or VS Code.
+
 ## Dataset Source
 UCI Machine Learning Repository:
 https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
